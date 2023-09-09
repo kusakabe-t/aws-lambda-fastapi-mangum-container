@@ -49,7 +49,7 @@ $ curl -X "POST" "http://localhost:9000/2015-03-31/functions/function/invocation
 ```
 
 ```shell
-curl -X "POST" "http://localhost:9000/2015-03-31/functions/function/invocations" \
+$ curl -X "POST" "http://localhost:9000/2015-03-31/functions/function/invocations" \
 -H 'Content-Type: application/json; charset=utf-8' \
 -d $'{
   "path": "/test3",

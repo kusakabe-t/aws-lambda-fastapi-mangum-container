@@ -1,0 +1,5 @@
+fastapi==0.103.1
+pydantic==2.3.0
+starlette==0.27.0
+mangum==0.11.0
+typing-extensions==4.7.1
